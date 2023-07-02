@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SNO2207
 - 👀 I’m interested in C++, Reverse Engineering, Hacking, and Games
-- 🌱 I’m currently learning Hooks and IDA Pro
+- 🌱 I’m currently learning IDA Pro and Game Development
 - 💞️ I’m looking to collaborate on Ground Branch
 - 📫 How to reach me (956)505-0757 or leviladden@gmail.com
