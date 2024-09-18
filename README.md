@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SNO2207
 - 👀 I’m interested in C++, Reverse Engineering, Hacking, and Games
 - 🌱 I’m currently learning IDA Pro and Game Development
-- 📫 How to reach me (832)525-3013 or leviladden@gmail.com
+- 📫 How to reach me (832) 525-3013 or leviladden@gmail.com
